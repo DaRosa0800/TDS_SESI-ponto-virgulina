@@ -48,7 +48,7 @@ quantidadeDeItens = Estoque.length; // Definir quantidade de itens
 
 console.log("\n");
 
-// Último ocnsole.log para o relatório
+// Último console.log para o relatório
 console.log(`Relatório:
 O cliente ${nomeCliente} fez uma compra de ${processarVenda(valorTotal, temCupom)}.
 
