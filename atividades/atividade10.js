@@ -1,6 +1,7 @@
-let hardwaresLista = ["CPU", "GPU", "Fonte", "Placa-mãe", "SSD", "RAM"];
+let pcGamer = ["Placa mãe", "Processador", "Memória RAM", "Placa de Vídeo", "Water Cooler"]
+console.log(pcGamer.join(' - '));
 
-hardwaresLista.push ("CPU");
-hardwaresLista.shift ();
+pcGamer.push("Fonte de Alimentação");
+pcGamer.shift();
 
-console.log(hardwaresLista);
+console.log(`\n${pcGamer.join(' - ')}`);
