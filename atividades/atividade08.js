@@ -1,6 +1,8 @@
-function convertido(valor, taxa){
-    let jaConvertido = valor * taxa;
-    return jaConvertido;
+function conversor(valor, taxa) {
+    return valor * taxa;
 }
 
-console.log(convertido(375, 9));
+let valor = 10;
+let taxa = 5.50;
+
+console.log(conversor(valor, taxa));

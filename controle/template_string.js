@@ -1,5 +1,6 @@
 let nome = "Emanuel da Rosa";
 let idade = 16;
+
 const frase = "Tá podendo?"
 
 // Imprimir no terminal o nome e a idade
