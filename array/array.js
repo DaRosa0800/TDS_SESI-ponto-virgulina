@@ -1,5 +1,6 @@
 // Índices          0          1         2         3
 const frutas = ["Abacaxi", "Laranja", "Banana", "Melância"];
+
 console.log(frutas[0]);
 console.log(frutas[1]);
 console.log(frutas[2]);

@@ -7,9 +7,9 @@ numeros.push(20);
 console.log(numeros);
 
 console.log(numeros.indexOf(4));
-console.log(numero.includes(20));
-console.log(numero.includes(6));
-console.log(numero.join(" - "));
+console.log(numeros.includes(20));
+console.log(numeros.includes(6));
+console.log(numeros.join(" - "));
 
 const valores = [ 200, 300, 400];
 console.log(numeros.concat(valores));
